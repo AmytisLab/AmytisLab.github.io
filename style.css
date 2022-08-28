@@ -1,6 +1,5 @@
 .jumbotron {
   background-image: url("images/back_crop.jpg");
   background-size: 100%;
-  padding-top: 20%;
-  padding-bottom: 20%;
+  min-height: 1000px;
 }
