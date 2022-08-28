@@ -1,6 +1,6 @@
 .jumbotron {
   background-image: url("images/back_crop.jpg");
-  background-size: cover;
+  background-size: 100%;
   padding-top: 20%;
   padding-bottom: 20%;
 }
